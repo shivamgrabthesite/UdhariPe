@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074585918151",
+    "project_id": "udharipe-bd09d",
+    "storage_bucket": "udharipe-bd09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074585918151:android:24c1a1a5347eb4bc4b3ce2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_postpe_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074585918151-u27vqor17c3u7earlmo6qe9b6js485kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iDXbXOdF9eUqZHZHjWBObtdBTi4vWKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074585918151-u27vqor17c3u7earlmo6qe9b6js485kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
